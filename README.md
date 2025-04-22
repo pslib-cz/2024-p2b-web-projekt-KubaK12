@@ -2,6 +2,8 @@
 2024-p2b-web-projekt-KubaK12 created by GitHub Classroom
 figma - https://www.figma.com/design/Li8OAJJUX23d3qE9oJ6aE9/Untitled?node-id=0-1&p=f&t=8FOoq1FlR44PqAz3-0
 
+pages - https://pslib-cz.github.io/2024-p2b-web-projekt-KubaK12/
+
 🟣 Název webu
 Sentinel Vision
 
