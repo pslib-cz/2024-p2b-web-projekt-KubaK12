@@ -26,45 +26,27 @@ Velký futuristický vizuál kamery (ten obrázek co máš)
 
 Slogan: „Měj vše pod kontrolou. Ve dne i v noci.“
 
-Tlačítko: Zjistit víc nebo Koupit teď
+Tlačítko: Zjistit víc
 
 O produktu
-
 Popis Sentinel Vision
-
 Klíčové vlastnosti (AI detekce, 4K video, noční režim, end-to-end šifrování)
-
-Porovnání modelů (např. Sentinel Vision One vs Ultra)
-
 Technologie a bezpečnost
-
 Jak funguje AI rozpoznávání osob/pohybů
-
 Jak jsou data chráněna (šifrování, cloud vs. lokální úložiště)
-
 Integrace s chytrou domácností (např. HomeKit, Google Home, Alexa)
 
 Použití v praxi
-
 Reálné scénáře: dům, firma, garáž, venkovní sledování
-
 Interaktivní mapa s ukázkami pokrytí
-
 Hodnocení a recenze
-
-Testimonialy od zákazníků
-
 Odborné recenze (fiktivně např. „TechRadar: 9/10“)
 
 Ceník a nákup
 
-Ceny jednotlivých verzí
+Kontakt
 
-Tlačítko Koupit nebo Kontaktovat pro B2B nabídku
-
-Kontakt / Footer
-
+Footer
 Formulář, e-mail, sociální sítě
-
 GDPR info, obchodní podmínky
 
