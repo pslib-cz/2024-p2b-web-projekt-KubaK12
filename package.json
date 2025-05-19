@@ -7,15 +7,14 @@
     "dev": "vite",
     "build": "vite build",
     "preview": "vite preview",
-    "deploy": "vite build --base=/2024-p2b-web-projekt-YYY/ && gh-pages -d dist"
+    "deploy": "vite build --base=/2024-p2b-web-projekt-KubaK12/ && gh-pages -d dist"
   },
   "devDependencies": {
     "gh-pages": "^6.3.0",
-    "vite": "^6.3.5"
+    "vite": "^6.3.5",
+    "vituum": "^1.2.0"
   },
   "dependencies": {
-    "normalize.css": "^8.0.1",
-    "swiper": "^11.2.6",
-    "vituum": "^1.2.0"
+    "swiper": "^11.2.6"
   }
 }
