@@ -1,4 +1,5 @@
-import './style.css';
+import '../styles/style.css';
+import '../styles/normalize.css';
 import Swiper from 'swiper';
 import { Navigation, Pagination, Scrollbar } from 'swiper/modules'; // přidán modul Scrollbar
 import 'swiper/css';
