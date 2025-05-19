@@ -1,9 +1,6 @@
 import Swiper from 'swiper';
-import { Navigation, Pagination, Scrollbar } from 'swiper/modules'; // přidán modul Scrollbar
-import 'swiper/css';
-import 'swiper/css/navigation';
-import 'swiper/css/pagination';
-import 'swiper/css/scrollbar'; // přidán styl pro scrollbar
+import { Navigation, Pagination, Scrollbar } from 'swiper/modules';
+import 'swiper/swiper-bundle.css';
 
 // init Swiper:
 const swiper = new Swiper('.swiper', {
